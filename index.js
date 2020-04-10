@@ -1,1 +1,1 @@
-module.exports = require('./promise_tasks_worker')
+module.exports = require('./lib/promise_tasks_worker')
