@@ -1,0 +1,22 @@
+{
+  "name": "promise-tasks-worker",
+  "version": "1.0.0",
+  "description": "Run the promise tasks in queue sequentially",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owenchang1992/promise-tasks-worker.git"
+  },
+  "author": "Owen Chang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owenchang1992/promise-tasks-worker/issues"
+  },
+  "homepage": "https://github.com/owenchang1992/promise-tasks-worker#readme"
+}
